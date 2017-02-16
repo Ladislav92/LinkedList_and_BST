@@ -4,8 +4,7 @@ package com.ladislav;
  * Created by Ladislav on 1/15/2017.
  */
 public abstract class ListItem {
-    
-    
+
     public ListItem(Object value) {
         this.value = value;
     }

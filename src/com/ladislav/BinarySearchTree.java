@@ -48,7 +48,7 @@ public class BinarySearchTree implements  NodeList {
     }
 
 
-    // Still not implemented !
+    // TODO (1) Implement removeItem() and performRemoval()
     @Override
     public boolean removeItem(ListItem item) {
         if (item != null) {
